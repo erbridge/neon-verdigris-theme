@@ -582,6 +582,60 @@
         "fontStyle": "bold",
         "foreground": "#00ef97"
       }
+    },
+    {
+      "name": "CSS: Override and reset to defaults",
+      "scope": [
+        "punctuation.definition.entity.css",
+        "support.type.property-name.css"
+      ],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#a7adba"
+      }
+    },
+    {
+      "scope": "entity.other.attribute-name.class.css",
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#dfe1e8"
+      }
+    },
+    {
+      "scope": ["entity.name.tag.css", "entity.name.tag.reference.scss"],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#00ef97"
+      }
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name.id.css",
+        "entity.other.attribute-name.pseudo-class.css"
+      ],
+      "settings": {
+        "foreground": "#00ef97"
+      }
+    },
+    {
+      "scope": "entity.other.attribute-name.pseudo-element.css",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#00ef97"
+      }
+    },
+    {
+      "scope": ["keyword.other.important.css", "keyword.other.important.scss"],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#00ef97"
+      }
+    },
+    {
+      "scope": "variable.scss",
+      "settings": {
+        "foreground": "#00ef97"
+      }
     }
   ]
 }
