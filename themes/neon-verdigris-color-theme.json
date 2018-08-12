@@ -426,6 +426,76 @@
       "settings": {
         "foreground": "#dc4546"
       }
+    },
+    {
+      "scope": "emphasis",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "strong",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "markup.bold",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "markup.italic",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "markup.underline",
+      "settings": {
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "scope": "markup.heading",
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#00ef97"
+      }
+    },
+    {
+      "scope": "entity.name.section.markdown",
+      "settings": {
+        "foreground": "#c0c5ce"
+      }
+    },
+    {
+      "scope": "markup.inline.raw.string.markdown",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#dfe1e8"
+      }
+    },
+    {
+      "scope": "markup.underline.link.markdown",
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#c0c5ce"
+      }
+    },
+    {
+      "name": "Markdown: Emphasize punctuation",
+      "scope": [
+        "beginning.punctuation.definition.list.markdown",
+        "punctuation.definition.bold.markdown",
+        "punctuation.definition.italic.markdown",
+        "punctuation.definition.raw.markdown"
+      ],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#00ef97"
+      }
     }
   ]
 }
