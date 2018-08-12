@@ -1,0 +1,23 @@
+{
+  "name": "neon-verdigris-theme",
+  "displayName": "Neon Verdigris Theme",
+  "description": "A minimal dark nearly monochrome theme with green highlights",
+  "version": "0.1.0",
+  "publisher": "erbridge",
+  "repository": "github:erbridge/neon-verdigris-theme",
+  "engines": {
+    "vscode": "^1.25.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Verdigris",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neon-verdigris-color-theme.json"
+      }
+    ]
+  }
+}
