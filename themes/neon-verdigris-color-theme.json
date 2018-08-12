@@ -551,6 +551,37 @@
         "fontStyle": "italic",
         "foreground": "#c0c5ce"
       }
+    },
+    {
+      "scope": "source.terraform.embedded.source",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#65737e"
+      }
+    },
+    {
+      "scope": "entity.other.attribute-name.terraform",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#c0c5ce"
+      }
+    },
+    {
+      "scope": "keyword.other.function.inline.terraform",
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#dfe1e8"
+      }
+    },
+    {
+      "scope": [
+        "keyword.other.section.begin.terraform",
+        "keyword.other.section.end.terraform"
+      ],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#00ef97"
+      }
     }
   ]
 }
