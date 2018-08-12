@@ -636,6 +636,14 @@
       "settings": {
         "foreground": "#00ef97"
       }
+    },
+    {
+      "name": "YAML: Override and reset to defaults",
+      "scope": "entity.name.tag.yaml",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#a7adba"
+      }
     }
   ]
 }
