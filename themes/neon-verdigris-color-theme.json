@@ -535,6 +535,22 @@
       "settings": {
         "foreground": "#65737e"
       }
+    },
+    {
+      "name": "Groovy: emphasize constant variables",
+      "scope": "constant.other.groovy",
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#c0c5ce"
+      }
+    },
+    {
+      "name": "Groovy: emphasize method keys",
+      "scope": "constant.other.key.groovy",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#c0c5ce"
+      }
     }
   ]
 }
