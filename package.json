@@ -2,7 +2,7 @@
   "name": "neon-verdigris-theme",
   "displayName": "Neon Verdigris Theme",
   "description": "A minimal dark nearly monochrome theme with green highlights",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "erbridge",
   "repository": "github:erbridge/neon-verdigris-theme",
   "engines": {
