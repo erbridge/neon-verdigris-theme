@@ -6,7 +6,7 @@
   "publisher": "erbridge",
   "repository": "github:erbridge/neon-verdigris-theme",
   "engines": {
-    "vscode": "^1.25.0"
+    "vscode": "^1.28.0"
   },
   "categories": [
     "Themes"
